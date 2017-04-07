@@ -36,13 +36,13 @@ At this stage, you should:
 
 ### Step four (optional): Google
 
-If at this point you get stuck on a particular problem within your use of this technology, Google may help you. The fundamental knowledge that you acquired through steps one and two make it possible to:
+If at this point you get stuck on a particular problem within your use of this technology, Google may help you. The fundamental knowledge that you acquired through steps one and two make should enable you to:
 
-* [ ] - Appropriately scope your query - not too broad, not too specific - leading to better results and less time-wasting
-* [ ] - Use the right words when you’re describing what you’re looking for
-* [ ] - Recognize bad info - anyone can write a tutorial & software may be deprecated
-* [ ] - Avoid rabbit holes - chase down the correct answer, not one that isn’t quite on point or is totally unrelated
-* [ ] - Place the information you do find within the wider context of the technology you’re using, increasing your understanding
+* [ ] Appropriately scope your query - not too broad, not too specific - leading to better results and less time-wasting
+* [ ] Use the right words when you’re describing what you’re looking for
+* [ ] Recognize bad info - anyone can write a tutorial & software may be deprecated
+* [ ] Avoid rabbit holes - chase down the correct answer, not one that isn’t quite on point or is totally unrelated
+* [ ] Place the information you do find within the wider context of the technology you’re using, increasing your understanding
 
 Speaking of narrowly-focused explanations . . . 
 **Stack Overflow is (usually) not a good place to start! It's (usually) too specific!** 
