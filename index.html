@@ -70,7 +70,7 @@
   })
 
   function playSound(e){
-    const audio = $(`audio[data-key="${e.keyCode}"]`)[0]
+    var audio = $(`audio[data-key="${e.keyCode}"]`)[0]
     if(!audio) return
     audio.currentTime = 0
     audio.play()
