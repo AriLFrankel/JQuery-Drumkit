@@ -63,7 +63,7 @@
   <audio data-key="76" src="sounds/tink.wav"></audio>
 
 <script>
-  $(()=>{
+  $(function(){
     $(document).keydown(function(e){
       playSound(e)
     })
@@ -77,7 +77,7 @@
     $(`.key[data-key="${e.keyCode}"]`).addClass('playing')
   }
   
-  $('.key').on('transitionend', ()=>{
+  $('.key').on('transitionend', function(){
     $('.key').removeClass('playing')
   })
 </script>
